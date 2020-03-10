@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Z80)(type Legacy)(uri /home/gavekort/Schematics/Z80_minimal/Z80_minimal/Z80_minimal/Easy_Z80-rescue.lib)(options "")(descr ""))
+  (lib (name Z80_minimal-rescue)(type Legacy)(uri ${KIPRJMOD}/Z80_minimal-rescue.lib)(options "")(descr ""))
+)
